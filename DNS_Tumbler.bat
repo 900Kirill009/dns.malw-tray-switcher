@@ -1,0 +1,1 @@
+@pwsh.exe -ExecutionPolicy Bypass -WindowStyle Hidden -File "%~dp0DNS-Tray.ps1"
